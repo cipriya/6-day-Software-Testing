@@ -10,5 +10,5 @@ State transition
 Error Guessing
 
 Session 2
-Hosted theweb portfolio using pythonanywhere
+Hosted the web portfolio using pythonanywhere
 view my profile using this link : https://mprofile-1.onrender.com
